@@ -1,1 +1,2 @@
-# general_planar_motion
+# General Planar Motion from a Pair of 3D correspondences
+
